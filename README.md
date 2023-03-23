@@ -14,7 +14,7 @@ pip install requests
 
 pip install pystyle
 
-pythun Crush-them.py
+pythun 'Crush them.py' 
 
 
 
